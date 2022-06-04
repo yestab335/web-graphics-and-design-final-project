@@ -2,7 +2,7 @@
 ![Website Preview](./public/Website.png)
 
 # Packages
-`npm i react-icons --save`
+`npm i react-icons --save`  
 `npm i react-router-dom@v6`
 
 # Getting Started with Create React App
