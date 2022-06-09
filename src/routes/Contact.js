@@ -5,14 +5,14 @@ import Navbar from '../components/Navbar'
 import Form from '../components/Form'
 
 const Contact = () => {
-    return (
-        <div>
-            <Navbar />
-            <HeroImage heading='CONTACT.' text='Contact Ryan Tabora' />
-            <Form />
-            <Footer/>
-        </div>
-    )
+  return (
+    <div>
+      <Navbar />
+      <HeroImage heading='CONTACT.' text='Contact Ryan Tabora' />
+      <Form />
+      <Footer/>
+    </div>
+  )
 }
 
 export default Contact
